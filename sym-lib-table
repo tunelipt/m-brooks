@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name m-brooks-rescue)(type Legacy)(uri ${KIPRJMOD}/m-brooks-rescue.lib)(options "")(descr ""))
+)

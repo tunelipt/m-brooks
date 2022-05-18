@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LM336-lm336
+#
+DEF LM336-lm336 U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "LM336-lm336" 0 0 50 H V C CNN
+F2 "Package_TO_SOT_THT:TO-92L_Inline" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+X V- 1 0 0 100 R 50 50 0 0 U
+X V+ 2 0 50 100 R 50 50 0 0 U
+X ADJ 3 0 100 100 R 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+#End Library
